@@ -1,0 +1,17 @@
+﻿//----------------------------------------------------------------------
+//	UTILITY
+//	Color
+//----------------------------------------------------------------------
+
+.text-reverse,
+.text-reverse a {
+	color: #fff !important;
+}
+
+.text-highlight {
+	color: $highlight;
+}
+
+.text-contrast {
+	color: $contrast;
+}

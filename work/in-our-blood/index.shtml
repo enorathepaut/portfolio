@@ -1,0 +1,91 @@
+﻿<!doctype html>
+<html class="no-js" lang="en">
+<!-- #include file = "/_includes/head.html" -->
+<body>
+	<div class="container-outer">
+		<div class="container-wrap">
+			<header class="site-header" id="site-header" role="banner">
+				<button class="btn-nav-toggle btn-nav-open" id="btn-nav-open">Open navigation</button>
+				<button class="btn-nav-toggle btn-nav-close" id="btn-nav-close">Close navigation</button>
+				<a class="btn-nav-toggle btn-nav-prev" href="/work/development-securities-AR2013/"><span>Previous project</span></a>
+				<!-- <a class="btn-nav-toggle btn-nav-next" href="#next"><span>Next project</span></a> -->
+			</header>
+			<!-- #include file = "/_includes/nav-primary.html" -->
+			<main class="main-content" id="content" role="main">
+				<div class="hero" style="background-image: url(../../images/work/in-our-blood/Ladbrokes_large_01.jpg)"></div>
+				<!-- start text block -->
+				<div class="wrapper text-content section--text">
+					<div class="grid">
+						<div class="grid__col col-desk--2-3 float-desk--right">
+							<h2 class="heading-inline text-contrast">Overview</h2>
+							<h3 class="text-large">It's in our blood</h3>
+							<p>The team working on an employee brand for Ladbrokes were looking for a type style that could translate the feeling of the values they were putting forward: bold, team, buzz, winners. I took the brush and boldly went for it, this later became a key element of the brand.</p>
+						</div>
+						<div class="grid__col col-desk--1-3">
+							<h2 class="text-highlight">Client</h2>
+							<p class="text-small">Ladbrokes</p>
+							<h2 class="text-highlight">Project team</h2>
+							<ul class="text-small">
+								<li>Al Baird &mdash; Creative Director</li>
+								<li>Adam Holloway &mdash; Designer</li>
+								<li>Enora Thépaut &mdash; Lettering</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- end text block -->
+				<!-- start image block -->
+				<div class="grid">
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/in-our-blood/Ladbrokes_squareL_03.jpg" alt="Placeholder">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/in-our-blood/Ladbrokes_squareL_02.jpg" alt="Placeholder">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/in-our-blood/Ladbrokes_squareL_01.jpg" alt="Placeholder">
+							</span>
+						</figure>
+					</div>
+				</div>
+								<!-- start video block -->
+				<figure>
+					<span class="media-wrap media-wrap--16-9 image-row">
+						<iframe class="media-wrap__media-item" src="https://player.vimeo.com/video/126950747?color=e51b34&amp;title=0&amp;byline=0&amp;portrait=0" width="1650" height="928" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					</span>
+				</figure>
+				<!-- end video block -->
+				<div class="grid">
+					<div class="grid__col col-lap--2-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--16-9">
+								<img class="media-wrap__media-item" src="../../images/work/in-our-blood/Ladbrokes_Xlarge_03.jpg" alt="Placeholder">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/in-our-blood/Ladbrokes_squareL_04.jpg" alt="Placeholder">
+							</span>
+						</figure>
+					</div>
+				</div>
+				<!-- end image block -->
+			</main>
+			<!-- #include file = "/_includes/footer.html" -->
+		</div>
+	</div>
+	<!-- #include file = "/_includes/foot.html" -->
+</body>
+</html>

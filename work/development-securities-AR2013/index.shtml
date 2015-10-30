@@ -1,0 +1,119 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<!-- #include file = "/_includes/head.html" -->
+<body>
+	<div class="container-outer">
+		<div class="container-wrap">
+			<header class="site-header" id="site-header" role="banner">
+				<button class="btn-nav-toggle btn-nav-open" id="btn-nav-open">Open navigation</button>
+				<button class="btn-nav-toggle btn-nav-close" id="btn-nav-close">Close navigation</button>
+				<a class="btn-nav-toggle btn-nav-prev" href="/work/alcatel-lucent-in-action/"><span>Previous project</span></a>
+				<a class="btn-nav-toggle btn-nav-next" href="/work/in-our-blood/"><span>Next project</span></a>
+			</header>
+			<!-- #include file = "/_includes/nav-primary.html" -->
+			<main class="main-content" id="content" role="main">
+				<div class="hero" style="background-image: url(../../images/work/development-securities-AR2013/DevSec_CS_09_rectangle_M_XL.jpg)"></div>
+				<!-- start text block -->
+				<div class="wrapper text-content section--text">
+					<div class="grid">
+						<div class="grid__col col-desk--2-3 float-desk--right">
+							<h2 class="heading-inline text-contrast">Overview</h2>
+							<h3 class="text-large">Annual Report 2013</h3>
+							<p>For Development Securities&#39;<a href="http://annualreport2013.developmentsecurities.com/"> Annual Report 2013</a> we wanted to show their property portfolio in context within the city. We commissioned photographer Jason Hawkes to document the properties from the air, shooting from macro to micro in scale. We designed the print report on the idea of building blocks. My challenge was to translate this idea online.</p>
+						</div>
+						<div class="grid__col col-desk--1-3">
+							<h2 class="text-highlight">Client</h2>
+							<p class="text-small">Development Securities</p>
+							<h2 class="text-highlight">Project team</h2>
+							<ul class="text-small">
+								<li>Matthew Shannon &mdash; Creative Director</li>
+								<li>Brad Sussex &mdash; Print Designer, Art Director</li>
+								<li>Enora Th&eacute;paut &mdash; Digital Designer</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- end text block -->
+				<!-- start image block -->
+				<div class="grid">
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/development-securities-AR2013/DevSec_CS_05_square_XL.jpg" alt="annual report cover">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--2-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--16-9">
+								<img class="media-wrap__media-item" src="../../images/work/development-securities-AR2013/DevSec_CS_01_rectangle_M_XL.jpg" alt="annual report spread">
+							</span>
+						</figure>
+					</div>
+				</div>
+				<div class="grid">
+					<div class="grid__col col-lap--2-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--16-9">
+								<img class="media-wrap__media-item" src="../../images/work/development-securities-AR2013/DevSec_CS_02_rectangle_M_XL.jpg" alt="chairman statement online">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/development-securities-AR2013/DevSec_CS_06_square_XL.jpg" alt="chairman statement detail">
+							</span>
+						</figure>
+					</div>
+				</div>
+				<!-- start large img block -->
+				<figure>
+					<span class="media-wrap media-wrap--16-9 image-row">
+						<img class="media-wrap__media-item" src="../../images/work/development-securities-AR2013/Dev_sec_online_XL.gif" alt="Photography online">
+					</span>
+				</figure>
+				<!-- end large img block -->
+
+				<div class="grid">
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/development-securities-AR2013/DevSec_CS_07_square_XL.jpg" alt="annual report cover">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--2-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--16-9">
+								<img class="media-wrap__media-item" src="../../images/work/development-securities-AR2013/DevSec_CS_04_rectangle_M_XL.jpg" alt="annual report spread">
+							</span>
+						</figure>
+					</div>
+				</div>
+				<div class="grid">
+					<div class="grid__col col-lap--2-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--16-9">
+								<img class="media-wrap__media-item" src="../../images/work/development-securities-AR2013/DevSec_CS_03_rectangle_M_XL.jpg" alt="chairman statement online">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/development-securities-AR2013/DevSec_CS_08_square_XL.jpg" alt="chairman statement detail">
+							</span>
+						</figure>
+					</div>
+				</div>
+
+				<!-- end image block -->
+
+			</main>
+			<!-- #include file = "/_includes/footer.html" -->
+		</div>
+	</div>
+	<!-- #include file = "/_includes/foot.html" -->
+</body>
+</html>

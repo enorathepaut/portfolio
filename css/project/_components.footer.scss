@@ -1,0 +1,19 @@
+﻿//----------------------------------------------------------------------
+//	COMPONENTS
+//	Footer
+//----------------------------------------------------------------------
+
+.site-footer {
+	background-color: $contrast;
+	padding-bottom: 3.438em; /* 55px */
+	padding-top: 3.438em; /* 55px */
+	position: relative;
+	z-index: 2;
+}
+
+.site-footer__inner {
+	@include mq($lap) {
+		max-width: 106.25em; /* 1700px */
+		padding-left: 3.125em; /* 50px */
+	}
+}

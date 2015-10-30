@@ -1,0 +1,141 @@
+﻿<!doctype html>
+<html class="no-js" lang="en">
+<!-- #include file = "/_includes/head.html" -->
+<body>
+	<div class="container-outer">
+		<div class="container-wrap">
+			<header class="site-header" id="site-header" role="banner">
+				<button class="btn-nav-toggle btn-nav-open" id="btn-nav-open">Open navigation</button>
+				<button class="btn-nav-toggle btn-nav-close" id="btn-nav-close">Close navigation</button>
+				<a class="btn-nav-toggle btn-nav-prev" href="/work/bmw-group/"><span>Previous project</span></a>
+				<a class="btn-nav-toggle btn-nav-next" href="/work/alcatel-lucent-in-action/"><span>Next project</span></a>
+			</header>
+			<!-- #include file = "/_includes/nav-primary.html" -->
+			<main class="main-content" id="content" role="main">
+								<!-- start video block -->
+				<figure>
+					<span class="media-wrap media-wrap--16-9 image-row">
+						<iframe class="media-wrap__media-item" src="https://player.vimeo.com/video/127633305?color=e51b34&amp;title=0&amp;byline=0&amp;portrait=0" width="1650" height="928" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					</span>
+				</figure>
+				<!-- end video block -->
+				<!-- start text block -->
+				<div class="wrapper text-content section--text">
+					<div class="grid">
+						<div class="grid__col col-desk--2-3 float-desk--right">
+							<h2 class="heading-inline text-contrast">Overview</h2>
+							<h3 class="text-large">Little stories, big difference</h3>
+							<p>When Sainsbury’s came to us asking “Why don’t we get enough credit for living our values?” we realised that their employees did not know what the values were. How were Sainsbury’s customers to believe the supermarket’s commitment to these values if their first point of contact was unaware of them?</p>
+							<p>We decided to make Sainsbury's colleagues the ambassadors of the values by making them the heroes of short surprising films that would become conversation starters around the values.</p>
+						</div>
+						<div class="grid__col col-desk--1-3">
+							<h2 class="text-highlight">Client</h2>
+							<p class="text-small">Sainsbury's</p>
+							<h2 class="text-highlight">Project team</h2>
+							<ul class="text-small">
+								<li>Matthew Shannon &mdash; Creative Director</li>
+								<li>Enora Thépaut &mdash; Art Director, Designer</li>
+								<li>Brad Sussex &mdash; Designer</li>
+								<li>Mel Martinez &mdash; Script Writer</li>
+								<li>Green Lions &mdash; Film</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- end text block -->
+				<!-- start image block -->
+				<div class="grid">
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/sainsburys-little-stories/Sainsburys_squareL_01.jpg" alt="Sainsbury's Little stories, big difference project ambition">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/sainsburys-little-stories/Sainsburys_squareL_02.jpg" alt="Sainsbury's Little stories, big difference brainstorming room">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/sainsburys-little-stories/Sainsburys_squareL_05.jpg" alt="Sainsbury's Little stories, big difference storyboards">
+							</span>
+						</figure>
+					</div>
+				</div>
+				<div class="grid">
+					<div class="grid__col col-lap--2-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--16-9">
+								<img class="media-wrap__media-item" src="../../images/work/sainsburys-little-stories/Sainsburys_Xlarge_02.jpg" alt="Filming the little stories in Sainsbury's stores with Green Lions">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/sainsburys-little-stories/Sainsburys_squareL_06.jpg" alt="Filming the little stories in Sainsbury's stores with Green Lions">
+							</span>
+						</figure>
+					</div>
+				</div>
+
+				<figure>
+					<span class="media-wrap media-wrap--16-9">
+						<iframe class="media-wrap__media-item" src="https://player.vimeo.com/video/126950744?color=e51b34&amp;title=0&amp;byline=0&amp;portrait=0" width="1650" height="928" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					</span>
+				</figure>
+				<!-- end image block -->
+				<!-- start text block -->
+				<div class="wrapper text-content section--text">
+					<div class="grid">
+						<div class="grid__col col-desk--2-3 float-desk--right">
+							<h2 class="heading-inline text-contrast">Description</h2>
+							<p>The videos were then shared on a dedicated page of <a href="http://www.j-sainsbury.co.uk/little-stories/">Sainsbury's corporate site</a> where people can find more facts about each commitment. They were also posted by Sainsbury's PR team in response to relevant conversations on twitter or facebook, and they illustrated some of their blog posts.</p>
+							<blockquote class="blockquote">
+								<p class="text-large">&ldquo;I'm honestly so proud to work for Sainsbury's. To be given an opportunity to take part in the filming experience is just overwhelming&rdquo; <span class="text-small"><cite>Danielle</cite>, Colleague at Sainsbury's</span></p>
+							</blockquote>
+							<p>The colleagues involved really became ambassadors of Sainsbury's commitments and helped spread the word in the stores.</p>
+					
+						</div>
+					</div>
+				</div>
+				<!-- end text block -->
+				<!-- start image block -->
+				<div class="grid">
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/sainsburys-little-stories/Sainsburys_squareL_09.jpg" alt="Sainsbury's Little stories, big difference portal">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/sainsburys-little-stories/Sainsburys_squareL_08.jpg" alt="SSharing the stories on social media">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/sainsburys-little-stories/Sainsburys_squareL_07.jpg" alt="Generating conversations">
+							</span>
+						</figure>
+					</div>
+				</div>
+
+				<!-- end image block -->
+
+			</main>
+			<!-- #include file = "/_includes/footer.html" -->
+		</div>
+	</div>
+	<!-- #include file = "/_includes/foot.html" -->
+</body>
+</html>

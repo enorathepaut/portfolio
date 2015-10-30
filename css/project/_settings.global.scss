@@ -1,0 +1,44 @@
+﻿//----------------------------------------------------------------------
+//	SETTINGS
+//	Global
+//----------------------------------------------------------------------
+
+//	Typography
+//-----------------------------------
+
+//	Font stacks
+$base-font: 'Vollkorn', Georgia, Times, serif;
+
+
+
+
+//	Animation
+//-----------------------------------
+
+//	Transition
+$duration: 250ms;
+$easing: ease-out;
+
+
+
+
+//	Colors
+//-----------------------------------
+
+$dark-grey: #111;
+//$mid-grey: #999;
+$light-grey: #e9e9e9;
+$highlight: #e51b34;
+$contrast: #2b4379;
+$alt-highlight: #fff000;
+
+
+
+
+//	Responsive
+//-----------------------------------
+
+//	Breakpoints (in px)
+$lap: 700;
+$desk: 900;
+$max: 1200;

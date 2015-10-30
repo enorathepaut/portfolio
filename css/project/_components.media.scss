@@ -1,0 +1,46 @@
+//----------------------------------------------------------------------
+//	COMPONENTS
+//	Media
+//----------------------------------------------------------------------
+
+//	Images
+//-----------------------------------
+
+.media-wrap {
+	background-color: $light-grey;
+	display: block;
+	position: relative;
+}
+.media-wrap__media-item {
+	display: block;
+	left: 0;
+	max-height: 100%;
+	max-width: 100%;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+
+//	Ratios
+.media-wrap--1-1 {
+	padding-top: 100%;
+}
+.media-wrap--16-9 {
+	padding-top: 56.25%;
+}
+
+//	Rows
+.image-row {
+	margin-bottom: 0.25em; /* 4px */
+}
+
+
+
+//	Video
+//-----------------------------------
+
+video {
+	height: auto;
+	width: 100%;
+}

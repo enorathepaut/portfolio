@@ -1,0 +1,160 @@
+﻿<!doctype html>
+<html class="no-js" lang="en">
+<!-- #include file = "/_includes/head.html" -->
+<body>
+	<div class="container-outer">
+		<div class="container-wrap">
+			<header class="site-header" id="site-header" role="banner">
+				<button class="btn-nav-toggle btn-nav-open" id="btn-nav-open">Open navigation</button>
+				<button class="btn-nav-toggle btn-nav-close" id="btn-nav-close">Close navigation</button>
+				<a class="btn-nav-toggle btn-nav-prev" href="/work/sainsburys-little-stories/"><span>Previous project</span></a>
+				<a class="btn-nav-toggle btn-nav-next" href="/work/development-securities-AR2013/"><span>Next project</span></a>
+			</header>
+			<!-- #include file = "/_includes/nav-primary.html" -->
+			<main class="main-content" id="content" role="main">
+				<div class="hero" style="background-image: url(../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_10_rectangle_M.jpg)"></div>
+				<!-- start text block -->
+				<div class="wrapper text-content section--text">
+					<div class="grid">
+						<div class="grid__col col-desk--2-3 float-desk--right">
+							<h2 class="heading-inline text-contrast">Overview</h2>
+							<h3 class="text-large">Alcatel-Lucent in action</h3>
+							<p>After a few tough years, Alcatel-Lucent have managed to reshape their company in order to become once again one of the key innovators IP networks, ultra-broadband and cloud technologies. In order to tell that story we created <a href="http://in-action.alcatel-lucent.com/">Alcatel-Lucent in action</a>, a review of the transformation in the form of a patchwork of bite size, shareable content. </p>
+						</div>
+						<div class="grid__col col-desk--1-3">
+							<h2 class="text-highlight">Client</h2>
+							<p class="text-small">Alcatel-Lucent</p>
+							<h2 class="text-highlight">Project team</h2>
+							<ul class="text-small">
+								<li>Matthew Shannon &mdash; Creative Director</li>
+								<li>Jamie Long &mdash; Design Director</li>
+								<li>Enora Thépaut &mdash; Designer</li>
+								<li>Pete Robelou &mdash; Developer</li>
+
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- end text block -->
+				<!-- start image block -->
+				<div class="grid">
+					<div class="grid__col col-lap--2-3">
+				<figure>
+					<span class="media-wrap media-wrap--16-9 image-row">
+						<iframe class="media-wrap__media-item" src="https://player.vimeo.com/video/127757106?color=e51b34&amp;title=0&amp;byline=0&amp;portrait=0" width="1650" height="928" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					</span>
+				</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_02_SquareXL.jpg" alt="Menu detail">
+							</span>
+						</figure>
+					</div>
+				</div>
+				<div class="grid">
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_12_square_XL.jpg" alt="Video page detail">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--2-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--16-9">
+								<img class="media-wrap__media-item" src="../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_09_rectangle_M.jpg" alt="Video page">
+							</span>
+						</figure>
+					</div>
+				</div>
+				<div class="grid">
+					<div class="grid__col col-lap--2-3">
+				<figure>
+							<span class="media-wrap media-wrap--16-9">
+								<img class="media-wrap__media-item" src="../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_08_rectangle_M.jpg" alt="Quote page">
+							</span>
+				</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_11_square_XL.jpg" alt="Quote page detail">
+							</span>
+						</figure>
+					</div>
+				</div>
+
+				<!-- end image block -->
+				<!-- start text block -->
+				<div class="wrapper text-content section--text">
+					<div class="grid">
+						<div class="grid__col col-desk--2-3 float-desk--right">
+							<h2 class="heading-inline text-contrast">Description</h2>
+							<p>The story is told in 4 main chapters under which a variety of short content gives a comprehensive understanding of the topic. The aim is to give the reader a feel of the pace at which the shift plan is rolled out and a sense of the new agility of Alcatel-Lucent. We created a frame that would be able to hold the diverse content, with pages such as articles, infographic pages, interviews, video pages, quotes, etc. The reader has the ability to read each chapter in a linear way, from page to page as if they were reading a printed magazine but also to dip in and dip out of each story without following the chapter structure. </p> <p>The project was to send teams comprised of journalists, photographers, illustrators, etc to different offices and research centers to document the work that was being done, to meet the experts and to see how the teams collaborate. In the end, due to budget restrictions we did not send teams to various locations, but our team worked with the client to create the content for the site.</p>
+						</div>
+					</div>
+				</div>
+				<!-- end text block -->
+				<!-- start image block -->
+				<div class="grid">
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_13_square_XL.jpg" alt="in Alcatel-Lucent workshops">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_20_square_XL.jpg" alt="a brainstorm at Alcatel-Lucent">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_19_square_XL.jpg" alt="a piece of equipment">
+							</span>
+						</figure>
+					</div>
+				</div>
+				<figure>
+					<span class="media-wrap media-wrap--16-9">
+						<img class="media-wrap__media-item" src="../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_05_rectangle_L_XL.jpg" alt="Illustrated key facts about Alcatel-Lucent">
+					</span>
+				</figure>
+				<div class="grid">
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_06_square_XL.jpg" alt="portrait of Naveed Kashif">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_08_square_XL.jpg" alt="portrait of Sophie Rey">
+							</span>
+						</figure>
+					</div>
+					<div class="grid__col col-lap--1-3">
+						<figure class="image-row">
+							<span class="media-wrap media-wrap--1-1">
+								<img class="media-wrap__media-item" src="../../images/work/alcatel-lucent-in-action/Alcatel_Case_Study_07_square_XL.jpg" alt="portrait of Xiaofeng Zhai">
+							</span>
+						</figure>
+					</div>
+				</div>
+				<!-- end image block -->
+
+			</main>
+			<!-- #include file = "/_includes/footer.html" -->
+		</div>
+	</div>
+	<!-- #include file = "/_includes/foot.html" -->
+</body>
+</html>
