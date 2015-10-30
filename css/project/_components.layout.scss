@@ -38,6 +38,7 @@
 	@include mq($lap) {
 		background-image: url('/images/bg-home-large.gif');
 		background-position: left center;
+		max-width: none;
 		padding-bottom: 3.125em; /* 50px */
 	}
 }
