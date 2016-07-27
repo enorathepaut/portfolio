@@ -1,6 +1,6 @@
 ﻿<!doctype html>
 <html class="no-js" lang="en">
-<!-- #include file = "/_includes/head.html" -->
+<!--#include virtual="/_includes/head.shtml" -->
 <body>
 	<div class="container-outer">
 		<div class="container-wrap">
@@ -8,7 +8,7 @@
 				<button class="btn-nav-toggle btn-nav-open" id="btn-nav-open">Open navigation</button>
 				<button class="btn-nav-toggle btn-nav-close" id="btn-nav-close">Close navigation</button>
 			</header>
-			<!-- #include file = "/_includes/nav-primary.html" -->
+			<!--#include virtual="/_includes/nav-primary.shtml" -->
 			<main class="main-content" id="content" role="main">
 				<!-- start text block -->
 				<div class="wrapper text-content section--text">
@@ -42,9 +42,9 @@
 					</div>
 				</div>
 			</main>
-			<!-- #include file = "/_includes/footer.html" -->
+			<!--#include virtual="/_includes/footer.shtml" -->
 		</div>
 	</div>
-	<!-- #include file = "/_includes/foot.html" -->
+	<!--#include virtual="/_includes/foot.shtml" -->
 </body>
 </html>

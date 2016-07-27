@@ -1,6 +1,6 @@
 ﻿<!doctype html>
 <html class="no-js" lang="en">
-<!-- #include file = "/_includes/head.html" -->
+<!--#include virtual="/_includes/head.shtml" -->
 <body>
 	<div class="container-outer">
 		<div class="container-wrap">
@@ -10,7 +10,7 @@
 				<a class="btn-nav-toggle btn-nav-prev" href="/work/bmw-group/"><span>Previous project</span></a>
 				<a class="btn-nav-toggle btn-nav-next" href="/work/alcatel-lucent-in-action/"><span>Next project</span></a>
 			</header>
-			<!-- #include file = "/_includes/nav-primary.html" -->
+			<!--#include virtual="/_includes/nav-primary.shtml" -->
 			<main class="main-content" id="content" role="main">
 								<!-- start video block -->
 				<figure>
@@ -133,9 +133,9 @@
 				<!-- end image block -->
 
 			</main>
-			<!-- #include file = "/_includes/footer.html" -->
+			<!--#include virtual="/_includes/footer.shtml" -->
 		</div>
 	</div>
-	<!-- #include file = "/_includes/foot.html" -->
+	<!--#include virtual="/_includes/foot.shtml" -->
 </body>
 </html>
